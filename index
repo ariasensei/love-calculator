@@ -210,7 +210,7 @@
        <div><label for="name2" class="block text-love-light text-sm font-semibold mb-2 tracking-wide">💕 Person 2 Name</label> <input type="text" id="name2" placeholder="Enter second name..." class="input-love w-full px-5 py-3 rounded-xl text-base" required autocomplete="off">
        </div><button type="submit" class="btn-love w-full py-4 rounded-xl text-white font-bold text-lg tracking-wide mt-4"> 💘 Calculate Love 💘 </button>
       </form>
-      <p class="text-center text-xs mt-6" style="color: rgba(255,255,255,0.35);">Certified by LoveLogic AI • For entertainment only 💫</p>
+      <p class="text-center text-xs mt-6" style="color: rgba(255,255,255,0.35);">No hearts were broken in the making of this calculator. For entertainment only 💫</p>
      </div>
     </div><!-- RESULTS SCREEN -->
     <div id="results-screen" class="hidden w-full">
